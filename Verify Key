@@ -1,0 +1,5 @@
+POST /api/verifyKey
+{
+  "key": "XXXX",
+  "hwid": "device123"
+}
