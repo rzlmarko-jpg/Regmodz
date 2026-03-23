@@ -1,0 +1,4 @@
+POST /api/createKey
+{
+  "duration": "7d"
+}
